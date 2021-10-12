@@ -1,0 +1,26 @@
+.profile-card {
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  font-family: 'Roboto';
+}
+
+.profile-image-url {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
+
+.profile-name {
+  color: #4f46e6;
+  font-size: 28px;
+  font-weight: 600;
+}
+
+.bio {
+  color: #475569;
+  font-size: 15px;
+  font-weight: 500;
+}

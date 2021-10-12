@@ -1,0 +1,18 @@
+.li-skills-container {
+  width: 28%;
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.skill-image {
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+}
+
+.skill-name {
+  color: #fff;
+  font-family: 'Roboto';
+  font-size: 15px;
+}

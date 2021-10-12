@@ -1,0 +1,149 @@
+.job-ul-list-container {
+  padding: 10px;
+  width: 100%;
+  background-color: #475569;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Roboto';
+  margin: 10px;
+  list-style-type: none;
+}
+
+.logo-name-rating-container {
+  display: flex;
+  width: 100%;
+}
+
+.company-logo {
+  height: 100px;
+  width: 100px;
+  margin-right: 10px;
+  border-radius: 6px;
+}
+
+.title-rating-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.job-title {
+  color: #fff;
+  font-size: 23px;
+  font-weight: 600;
+}
+
+.rating-container {
+  display: flex;
+  align-items: center;
+}
+
+.star-logo {
+  color: #fbbf2b;
+  height: 18px;
+  width: 18px;
+  margin-right: 7px;
+}
+
+.rating {
+  font-size: 17px;
+  color: #fff;
+  font-weight: 600;
+}
+
+.location-type-package-container {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.location-type-container {
+  display: flex;
+  align-items: center;
+}
+
+.location-icon {
+  height: 18px;
+  width: 18px;
+  margin-left: 5px;
+  color: #fff;
+}
+
+.location {
+  color: #cbd5e1;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.package {
+  color: #fff;
+  font-size: 20px;
+  margin-right: 15px;
+}
+
+.hr {
+  border: 1px solid #7e858e;
+  width: 100%;
+}
+
+.description-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.description-heading {
+  color: #fff;
+  font-weight: 600;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.job-description-life {
+  color: #cbd5e1;
+  font-size: 15px;
+  width: 45%;
+}
+
+.description-link-container {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.link-to-company {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  color: #4f46e5;
+  font-size: 15px;
+  font-family: 'Roboto';
+  margin-right: 15px;
+}
+
+.skills-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.ul-skills-container {
+  list-style-type: none;
+  padding: 0px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.life-at-company-container {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.life-at-image {
+  width: 150px;
+  height: 150px;
+}

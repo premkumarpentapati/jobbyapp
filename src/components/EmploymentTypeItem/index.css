@@ -1,0 +1,16 @@
+.checkbox-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 6px;
+}
+
+.checkbox {
+  width: 15px;
+  height: 15px;
+  margin-right: 5px;
+}
+
+.label {
+  font-size: 15px;
+  color: #fff;
+}

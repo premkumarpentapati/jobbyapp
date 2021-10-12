@@ -1,0 +1,18 @@
+.salary-type-input {
+  width: 15px;
+  height: 15px;
+  margin-right: 5px;
+  margin-bottom: 10px;
+}
+
+.salary-label {
+  color: #f1f5f9;
+  font-size: 15px;
+  font-family: 'Roboto';
+  margin-bottom: 10px;
+}
+
+.radial-container {
+  display: flex;
+  align-items: center;
+}
